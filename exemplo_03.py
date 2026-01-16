@@ -6,5 +6,5 @@ valor= float(salario*porcentagem + salario)
 
 print(f"Parabens, {nome}. O seu salario deste mes com bonus sera: R$ {valor:.2f}")
 
-#print(" Parabens ", nome, " O valor do seu salario com bonus ser: R$ ",valor)
+print(" Parabens ", nome, " O valor do seu salario com bonus ser: R$ ",valor)
 
